@@ -12,4 +12,5 @@ def basicLogger():
 
 logger = basicLogger()
 
-logger.info("this is test")
+logger.info("Pleae go to that link and start working with some basic problems ")
+print "\t https://www.hackerrank.com/domains/python/py-basic-data-types \n"
